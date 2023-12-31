@@ -1,0 +1,7 @@
+{
+  "package": "coremud",
+  "version": "1.0.0",
+  "author": "steve",
+  "title": "coremud.org default mapper",
+  "outputFile": true
+}

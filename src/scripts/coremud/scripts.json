@@ -1,0 +1,42 @@
+[
+  {
+    "name": "update_gmcp",
+    "eventHandlerList": [
+      "gmcp.Char.Vitals"
+    ]
+  },
+  {
+    "name": "update_gmcp_xp",
+    "eventHandlerList": [
+      "gmcp.Char.XP"
+    ]
+  },
+  {
+    "name": "update_gmcp_room",
+    "eventHandlerList": [
+      "gmcp.Room"
+    ]
+  },
+  {
+    "name": "doSpeedWalk"
+  },
+  {
+    "name": "CSSMan"
+  },
+  {
+    "name": "GUI"
+  },
+  {
+    "name": "RoomEvent",
+    "eventHandlerList": [
+      "gmcp.Room"
+    ]
+  },
+  {
+    "name": "submitMap",
+    "eventHandlerList": [
+      "onSubmitMap"
+    ]
+  }
+
+]
